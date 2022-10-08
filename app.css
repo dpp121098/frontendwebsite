@@ -5,15 +5,15 @@ body {
 
 .blurb h2 {
    color: #cfb56a;
-   font-weight: 100;
-   font-size: 2.5rem;
+   font-weight: 120;
+   font-size: 1.5rem;
 }
 
 .blurb p {
     color: #161a1d;
     font-weight: 100;
-    font-size: 1.125rem;
-    line-height: 2;
+    font-size: 1.1rem;
+    line-height: 3;
 }
 
 .content {
@@ -22,12 +22,12 @@ body {
 }
 
 #mainNavbar {
-    font-size: 1.5rem;
+    font-size: 1.25rem;
     font-weight: 100;    
 }
 
 #mainNavbar .nav-link {
-    color: white;
+    color: grey;
 }
 
 #mainNavbar .nav-link:hover {
