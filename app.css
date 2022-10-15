@@ -5,13 +5,13 @@ body {
 
 .blurb h2 {
    color: #cfb56a;
-   font-weight: 120;
+   font-weight: 130;
    font-size: 1.5rem;
 }
 
 .blurb p {
     color: #161a1d;
-    font-weight: 100;
+    font-weight: 110;
     font-size: 1.1rem;
     line-height: 3;
 }
@@ -22,7 +22,7 @@ body {
 }
 
 #mainNavbar {
-    font-size: 1.25rem;
+    font-size: 1.15rem;
     font-weight: 100;    
 }
 
@@ -46,7 +46,7 @@ body {
 }
 
 #headingGroup h1 {
-    font-weight: 100;
+    font-weight: 150;
     font-size: 3.5rem;
 }
 
